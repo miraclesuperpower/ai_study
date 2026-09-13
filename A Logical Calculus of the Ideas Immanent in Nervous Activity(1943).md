@@ -1,3 +1,4 @@
+# A LOGICAL CALCULUS OF THE IDEAS IMMANENT IN NERVOUS ACTIVITY* (WARREN S. MCCULLOCH AND WALTER PITTS, 1943)
 ## introduction
 - All-or-none: 뉴런은 발화하거나 안 하거나 둘 중 하나 → 명제(참/거짓)로 대응 가능
 - 공간적/시간적 합산(threshold): 단일 시냅스로는 부족, 충분한 수의 시냅스가 동시에(또는 근접 시간에) 흥분해야 발화 → 이게 논리식에서 AND/OR 구조로 표현됨
