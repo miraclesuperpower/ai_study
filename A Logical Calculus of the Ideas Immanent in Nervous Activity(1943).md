@@ -51,7 +51,7 @@
 두가지 목적
 1. 주어진 neural network의 동작/출력을 분석하는 문제
 2. 특정한 계산을 수행하는 신경망을 구성하는 문제
-cyclic set
+### cyclic set
 ```
 A → B → C
 ↑       ↓
